@@ -1,4 +1,4 @@
-let words = ["abc", "racecar", "boy", "eye", "cool", "aba"];
+let words = ["abc", "car", "ada", "racecar", "cool"];
 let rev = '';
 let y = 0;
 
